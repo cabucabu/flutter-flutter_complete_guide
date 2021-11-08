@@ -27,7 +27,7 @@ class Result extends StatelessWidget {
             textAlign: TextAlign.center,
           ),
           RaisedButton(
-            child: Text('Restart Quiz'),
+            child: Text('Restart Qussiz'),
             textColor: Colors.blue,
             onPressed: resetHandler,
           ),
