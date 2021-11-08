@@ -27,7 +27,7 @@ class Result extends StatelessWidget {
             textAlign: TextAlign.center,
           ),
           RaisedButton(
-            child: Text('Restart Qussiz'),
+            child: Text('Restart Qussssiz'),
             textColor: Colors.blue,
             onPressed: resetHandler,
           ),
